@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5FEC972F-8321-F079-8C49-E6B7C5E155DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu/MainMenuController.js">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu/MainMenuController.js" Line="10" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.The_220Project PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/Petra/Desktop/The Project/Assets/Scripts/MainMenu/MainMenuController.js" relfile="Assets/Scripts/MainMenu/MainMenuController.js" line="5" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
